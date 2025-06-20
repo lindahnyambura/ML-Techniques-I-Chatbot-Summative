@@ -1,0 +1,25 @@
+{
+    "ocr_artifacts": [
+        ["•·([a-z])", "\\1"],
+        ["�", "u"],
+        ["([a-z])_([a-z])", "\\1\\2"]
+    ],
+    "preserve_terms": [
+        "Mau Mau",
+        "Kimathi",
+        "Uhuru",
+        "Njuri Ncheke",
+        "Kenya Land Freedom Army",
+        "Emergency Period"
+    ],
+    "swahili_phrases": [
+        "Tutanyakua Mashamba yetu",
+        "Piga Piga",
+        "Uhuru wetu",
+        "Mzilikazi"
+    ],
+    "protected_patterns": [
+        ["(\\d+)th (day|month|year)", "\\1\\2"],
+        ["(\\w+)- (\\w+)", "\\1\\2"]
+    ]
+}
