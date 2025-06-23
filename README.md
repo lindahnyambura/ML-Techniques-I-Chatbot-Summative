@@ -57,7 +57,7 @@ data/
 >  Note: The QA generation script was initially used for automation but did not yield high-quality results. The final dataset was curated manually based on deep reading of both texts.
 
 
-### 🧠 Model & Training
+### Model & Training
 
 This project fine-tunes a lightweight generative model to play the role of **Dedan Kimathi**, answering questions grounded in the historical context of his 1956 trial.
 
@@ -134,8 +134,6 @@ model/
     └── ...
 ```
 
-Perfect — here's a crisp, well-organized **App & Interface** section for your `README.md`:
-
 ---
 
 ### App & Interface
@@ -184,7 +182,7 @@ This gives you a link like:
 https://24471c0b4fbdd7be59.gradio.live
 ```
 
-> The link lasts \~72 hours. For permanent deployment, see [Hugging Face Spaces](https://huggingface.co/spaces/lnyambura/kimathi-bot).
+> The link lasts \~72 hours. For permanent deployment, see [Hugging Face Spaces](https://huggingface.co/spaces).
 
 
 
@@ -271,6 +269,10 @@ This project draws inspiration and content from the following sources:
  **Project Lead**
 Crafted, engineered, and debugged under pressure by Lindah Nyambura
 
-### Video demo
+### Video Demo
 
 https://drive.google.com/file/d/1t8O-SUiqpfYHUF_OMMUXGMsETt64e4Xj/view?usp=sharing
+
+### Hugging Face Space
+
+https://huggingface.co/spaces/lnyambura/kimathi-bot
